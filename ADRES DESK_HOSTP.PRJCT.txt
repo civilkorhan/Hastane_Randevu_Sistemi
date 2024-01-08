@@ -1,0 +1,2 @@
+"Data Source=DESKTOP-Q60UHL2\\SQLEXPRESS05;Initial Catalog=hastane_Proje;Integrated Security=True;"
+
